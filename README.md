@@ -1,4 +1,4 @@
-# Plant Phenology
+# Plant Phenology Task Group
 
 The repository of the Plant Phenology task group.  (Stub for the README.md file.)
 
