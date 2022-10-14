@@ -12,6 +12,8 @@ See the task group's [charter](https://www.tdwg.org/community/osr/phenology/).
 
 The agenda and notes from our first meeting can be found [here](https://docs.google.com/document/d/1W8P73fgJCjKfO5gDGBkdcd0oLDeSsm7a4YZfct0iIIE/edit).
 
+An initial rough draft of our proposed standard (i.e., mapping of Plant Phenology Ontology to the Darwin Core Extended Measurement or Fact Extension) [can be found here](https://docs.google.com/spreadsheets/d/1I4R9xtWZofhcKi_azo8StivrdxYKeXJxpDHuCM0-wXU/edit?usp=sharing) and is open to comment.
+
 To join our mailing list and be added to our GitHub repo, enter your information [in this survey](https://docs.google.com/forms/d/e/1FAIpQLSdj7WvN0kzOCiJLb9lJnJsQUBaQpS9SGd6FPAFBAbWtS6m8pg/viewform?usp=sf_link).
 
 Get Involved
