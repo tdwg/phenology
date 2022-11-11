@@ -1,0 +1,32 @@
+stage code,scale name,phenological event code,phenological event description,stage description
+0,Profil végétatif 11,0,Germination / sprouting / bud development,graine sèche (akène)
+1,Profil végétatif 11,0,Germination / sprouting / bud development,début de l’imbibition de la graine
+5,Profil végétatif 11,0,Germination / sprouting / bud development,la radicule sort de la graine
+9,Profil végétatif 11,0,Germination / sprouting / bud development,levée : hypocotyle et cotylédons percent la surface du sol
+10,Profil végétatif 11,1,Leaf development (main shoot),cotylédons complètement étalés
+12,Profil végétatif 11,1,Leaf development (main shoot),première paire de feuilles étalées (stade 2 feuilles opposées)
+14,Profil végétatif 11,1,Leaf development (main shoot),deuxième paire de feuilles étalées (stade 4 feuilles)
+15,Profil végétatif 11,1,Leaf development (main shoot),première feuille alterne étalée (stade 5 feuilles)
+16,Profil végétatif 11,1,Leaf development (main shoot),6 feuilles étalées
+17,Profil végétatif 11,1,Leaf development (main shoot),7 feuilles étalées
+18,Profil végétatif 11,1,Leaf development (main shoot),8 feuilles étalées
+19,Profil végétatif 11,1,Leaf development (main shoot),9 ou davantage de feuilles étalées
+51,Profil végétatif 11,5,Inflorescence emergence (main shoot) / heading,l’inflorescence (capitule) est juste visible entre les plus jeunes feuilles
+53,Profil végétatif 11,5,Inflorescence emergence (main shoot) / heading,l’inflorescence se sépare des feuilles
+55,Profil végétatif 11,5,Inflorescence emergence (main shoot) / heading,l’inflorescence est séparée des plus jeunes feuilles
+57,Profil végétatif 11,5,Inflorescence emergence (main shoot) / heading,l’inflorescence est nettement séparée des feuilles
+59,Profil végétatif 11,5,Inflorescence emergence (main shoot) / heading,les fleurs ligulées sont visibles entre les bractées
+61,Profil végétatif 11,6,Flowering (main shoot),début floraison : fleurs ligulées dressées
+63,Profil végétatif 11,6,Flowering (main shoot),fleurs tubuleuses sur le tiers extérieur du capitule en fleurs (étamines et stigmates visibles)
+65,Profil végétatif 11,6,Flowering (main shoot),pleine floraison : fleurs tubuleuses sur le tiers du milieu du capitule en fleurs
+67,Profil végétatif 11,6,Flowering (main shoot),la floraison s’achève : fleurs tubuleuses sur le tiers intérieur du capitule en fleurs
+69,Profil végétatif 11,6,Flowering (main shoot),fin de la floraison : la plupart des fleurs tubuleuses ont fleuri
+80,Profil végétatif 11,8,Ripening of fruit and seed,début de la maturation : les akènes au bord du capitule sont noires et dures
+81,Profil végétatif 11,8,Ripening of fruit and seed,les akènes du tiers extérieur du capitule sont noires et dures
+83,Profil végétatif 11,8,Ripening of fruit and seed,le dessous du capitule est vert-jaunâtre
+85,Profil végétatif 11,8,Ripening of fruit and seed,les akènes du tiers du milieu du capitule sont noires et dures
+87,Profil végétatif 11,8,Ripening of fruit and seed,maturité physiologique : le dessous du capitule est jaune
+89,Profil végétatif 11,8,Ripening of fruit and seed,maturation complète : les akènes du tiers intérieur du capitule sont noires et dures le dessous du capitule est brun
+92,Profil végétatif 11,9,Beginning of dormancy,
+97,Profil végétatif 11,9,Beginning of dormancy,
+99,Profil végétatif 11,9,Beginning of dormancy,
